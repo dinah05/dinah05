@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dinah Yoon</h1>
 <h3 align="center">A proactive PM driven by responsibility and fueled by bold, innovative ideas.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: dainie5@naver.com </h3>
 <p align="left">
 </p>
 
